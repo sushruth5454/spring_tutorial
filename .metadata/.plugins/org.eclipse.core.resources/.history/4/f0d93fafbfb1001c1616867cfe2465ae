@@ -1,0 +1,10 @@
+package com.springmvc;
+
+@Controller
+public class AddController {
+	@RequestMapping("add")
+	public void add() {
+		System.out.println("in add");
+	}
+
+}

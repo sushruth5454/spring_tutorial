@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\NSUSHRUT\Documents\spring_tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2238499324.index
+\springMVC\src\main\resources
+C:\Users\NSUSHRUT\Documents\spring_tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3939616455.index
+\SpringMvcJava\src\main\resources
+C:\Users\NSUSHRUT\Documents\spring_tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3612873267.index
+\springMVC\src\main\java
+C:\Users\NSUSHRUT\Documents\spring_tutorial\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1445608363.index
+\DemoMVC\src\main\resources
